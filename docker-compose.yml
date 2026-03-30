@@ -1,0 +1,9 @@
+services:
+  pdf-editor:
+    build: .
+    container_name: pdf-editor
+    restart: unless-stopped
+    ports:
+      - "8090:80"
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
