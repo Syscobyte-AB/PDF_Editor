@@ -74,6 +74,12 @@ Push to a GitHub repository and enable GitHub Pages — it works out of the box 
 - **[pdf-lib](https://pdf-lib.js.org/)** — PDF modification and creation
 - Vanilla HTML, CSS, JavaScript — no build tools, no frameworks
 
+## Contributors
+
+- **Kashif** — Creator & Maintainer
+
 ## License
 
-MIT
+MIT License — see [LICENSE](LICENSE) for details.
+
+This software is provided "as is", without warranty of any kind. The author is not liable for any claims, damages, or other liability arising from the use of this software.
